@@ -1,0 +1,28 @@
+p {
+  text-indent: 4%;
+}
+
+.container {
+
+}
+
+.border {
+  border-style: solid;
+  border: 10px solid black;
+  background-color:white;
+  padding: 15px;
+}
+
+.highlight {
+}
+
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.button:hover {
+  text-decoration: underline;
+  color: blue;
+}
+
